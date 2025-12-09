@@ -1,0 +1,48 @@
+2025-11-05 18:00:31,920 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-11-05 18:00:31,920 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-05 18:00:34,790 - root - INFO - Ingerindo documentos de 'data/main' para vector store 'main'...
+2025-11-05 18:00:35,876 - root - ERROR - Erro durante ingestão: Erro ao criar vector store 'main': `np.float_` was removed in the NumPy 2.0 release. Use `np.float64` instead.
+2025-11-05 18:05:18,252 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-11-05 18:05:18,252 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-05 18:05:20,482 - root - INFO - Ingerindo documentos de 'data/main' para vector store 'main'...
+2025-11-05 18:05:22,820 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-05 18:05:26,747 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-11-05 18:05:27,055 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2025-11-05 18:05:28,501 - root - INFO - Ingestão concluída com sucesso!
+2025-11-10 11:31:57,399 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-11-10 11:31:57,399 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-10 11:31:59,377 - root - INFO - Ingerindo documentos de 'data/main' para vector store 'main'...
+2025-11-10 11:32:00,378 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-10 11:32:01,225 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 11:32:01,256 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2025-11-10 11:32:01,889 - root - INFO - Ingestão concluída com sucesso!
+2025-11-24 17:17:45,467 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-11-24 17:17:45,467 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-24 17:17:47,480 - root - INFO - Ingerindo documentos de 'data/main' para vector store 'main'...
+2025-11-24 17:17:48,224 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-24 17:17:48,363 - chromadb.telemetry.product.posthog - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-11-24 17:17:48,694 - root - ERROR - Erro durante ingestão: Erro ao criar vector store 'main': langchain_community.vectorstores.chroma.Chroma() got multiple values for keyword argument 'embedding_function'
+2025-11-24 17:29:43,943 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-11-24 17:29:43,944 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-24 17:29:46,262 - root - INFO - Ingerindo documentos de 'data/main' para vector store 'main'...
+2025-11-24 17:29:46,588 - core.vector_store - INFO - Carregados 1 documentos PDF
+2025-11-24 17:29:46,599 - core.vector_store - INFO - Carregados 0 documentos DOCX
+2025-11-24 17:29:46,600 - core.vector_store - INFO - Carregados 0 documentos TXT
+2025-11-24 17:29:46,600 - core.vector_store - INFO - Documentos CSV processados.
+2025-11-24 17:29:46,601 - core.vector_store - INFO - Documentos JSON processados.
+2025-11-24 17:29:46,602 - core.vector_store - INFO - Documentos divididos em 12 chunks
+2025-11-24 17:29:46,622 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-24 17:29:47,951 - core.vector_store - INFO - Vector store 'main' criado com sucesso com 12 documentos
+2025-11-24 17:29:47,951 - root - INFO - Ingestão concluída com sucesso!
+2025-11-24 17:31:02,404 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-11-24 17:31:02,404 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-24 17:31:04,426 - root - INFO - Ingerindo documentos de 'data/main' para vector store 'main'...
+2025-11-24 17:31:04,759 - core.vector_store - INFO - Carregados 2 documentos PDF
+2025-11-24 17:31:04,761 - core.vector_store - INFO - Carregados 0 documentos DOCX
+2025-11-24 17:31:04,761 - core.vector_store - INFO - Carregados 0 documentos TXT
+2025-11-24 17:31:04,761 - core.vector_store - INFO - Documentos CSV processados.
+2025-11-24 17:31:04,763 - core.vector_store - INFO - Documentos JSON processados.
+2025-11-24 17:31:04,763 - core.vector_store - INFO - Documentos divididos em 16 chunks
+2025-11-24 17:31:04,785 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-24 17:31:06,403 - core.vector_store - INFO - Vector store 'main' criado com sucesso com 16 documentos
+2025-11-24 17:31:06,403 - root - INFO - Ingestão concluída com sucesso!

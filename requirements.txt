@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pydantic
+google-genai
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+langchain-chroma
+chromadb==0.4.22
+sentence-transformers
+firebase-admin
+pypdf
+docx2txt
+pandas
+python-multipart
+python-dotenv
+numpy==1.26.4
