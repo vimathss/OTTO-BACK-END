@@ -83,10 +83,10 @@ O projeto OTTO utiliza um conjunto de tecnologias modernas para garantir desempe
 | **Bibliotecas de IA** | LangChain Community | Componentes de código aberto para facilitar a construção de aplicações com LLMs. |
 
 ## Conquistas com o OTTO
-- Melhor Projeto oriundo da Região **Sudeste** do Brasil na **FEBIC 2025 – Joinville/SC** 🏅  
+- Melhor Projeto oriundo da Região **Sudeste** do Brasil na **X FEBIC 2025 – Joinville/SC** 🏅  
 - Medalha de **OURO** na **EXPOTEC 2025 – Leme/SP** 🏅
 - 2º lugar **Melhor Projeto** do Curso Técnico em Desenvolvimento de Sistemas na **PROJETEC 2025 - Hortolândia/SP** 🥈 
-- Participação em diversas feiras e desafios, como o Solve For Tomorrow Brasil e o Desafio Liga Jovem
+- Participação em diversas feiras e desafios, como o Solve For Tomorrow Brasil, o Desafio Liga Jovem e o Desafio Inova Jovem Unicamp
 
 ## Informações adicionais
 - Status: **Concluido e Apresentado (com possibilidades de continuidade)**  
